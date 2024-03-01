@@ -6,3 +6,4 @@ and view current weather details.
 TechnologiesJava, API integration.
 You can use other technologies that you know.
 What You LearnBasic API usage, data retrieval.
+
